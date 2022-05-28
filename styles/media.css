@@ -1,0 +1,14 @@
+/*xl*/
+@media only screen and (max-width: 1200px){}
+
+/*lg*/
+@media only screen and (max-width: 992px){
+}
+/*md*/
+@media only screen and (max-width: 768px){  
+}
+/*sm*/
+@media only screen and (max-width: 576px){
+}
+@media only screen and (max-width: 330px){
+}
